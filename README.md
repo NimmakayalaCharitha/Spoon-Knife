@@ -1,4 +1,4 @@
-### Well hello there!
+<img width="1327" height="756" alt="image" src="https://github.com/user-attachments/assets/a7f689cc-65e0-40ec-90dc-d7f9c1623770" />### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
@@ -6,4 +6,8 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart
+
+Forked by NimmakayalaCharitha for GitHub assignment.
+
+
